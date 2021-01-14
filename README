@@ -1,0 +1,8 @@
+description:
+	simple note taking with dmenu and cron reminders.
+
+installation:
+	sudo make install
+
+usage:
+	sn
